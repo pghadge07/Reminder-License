@@ -18,9 +18,9 @@ frequency_mapping = {
     "2 YEAR": timedelta(days=730),
 }
 
-SENDER_EMAIL = "alerts@sharadaindustries.com"
-SENDER_PASSWORD = "Sharada@321"
-SMTP_SERVER = "sharadaindustries.mithiskyconnect.com"
+SENDER_EMAIL = ""
+SENDER_PASSWORD = ""
+SMTP_SERVER = ""
 SMTP_PORT = 465
 
 # -------------------------------------------------------------------
